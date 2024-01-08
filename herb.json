@@ -1,0 +1,7 @@
+{
+  "max_time": 530.0,
+  "log": true,
+  "mcts_config": {
+    "exploration_factor": 1.25
+  }
+}
